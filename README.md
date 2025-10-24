@@ -22,8 +22,3 @@ You can also change the data path at "dataset/root_dir" in `configs/monostr.yaml
   ```bash
   bash test.sh configs/monostr.yaml
   ```
-You can test the inference time on your own device:
-  ```bash
-  python tools/test_runtime.py
-  ```
-
